@@ -1,7 +1,6 @@
 <html>
+    <head>
     <link href="AluraFlix.css" rel="stylesheet">
-
-<head>
   <script src="aluraFlix.js"></script>
     <title>
         Imersão Dev - Aula 04
