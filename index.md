@@ -1,3 +1,13 @@
+<html>
+
+
+<head>
+    <link href="AluraFlix.css" rel="stylesheet">        
+    <title>
+        Imersão Dev - Aula 04
+    </title>
+</head>
+
 <body>
     <div class="container">
         <h1 class="page-title">
@@ -12,7 +22,6 @@
     <div id="poster">
     </div>
     <script src="aluraFlix.js"></script>
-
 </body>
 
 </html>
