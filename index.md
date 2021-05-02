@@ -1,12 +1,3 @@
-<html>
-    <head>
-    <link href="AluraFlix.css" rel="stylesheet">
-  <script src="aluraFlix.js"></script>
-    <title>
-        Imersão Dev - Aula 04
-    </title>
-</head>
-
 <body>
     <div class="container">
         <h1 class="page-title">
@@ -18,7 +9,10 @@
     <a href="https://alura.com.br/" target="_blank">
         <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
     </a>
-  
+    <div id="poster">
+    </div>
+    <script src="aluraFlix.js"></script>
 
-  
 </body>
+
+</html>
