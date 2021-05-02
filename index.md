@@ -1,4 +1,5 @@
-<body>
+<html>
+ <body>
     <div class="container">
         <h1 class="page-title">
             Aluraflix
@@ -14,5 +15,4 @@
     <script src="aluraFlix.js"></script>
 
 </body>
-
 </html>
